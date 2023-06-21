@@ -2,4 +2,6 @@
 
 ### 🔭 Adoring my work at [Opentrons](https://github.com/Opentrons)
 
-Testing our robot and application.
+#### Lead Dev on our revamp of the Protocol Library. 
+#### Lead Dev of teh Opentrons Account platform.
+#### Testing the OT-2, Flex and our applications.
