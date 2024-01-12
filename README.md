@@ -2,6 +2,12 @@
 
 ### 🔭 Adoring my work at [Opentrons](https://github.com/Opentrons)
 
-#### Lead Dev on our revamp of the Protocol Library. 
-#### Lead Dev of the Opentrons Account platform.
-#### Testing the OT-2, Flex and our applications.
+#### Lead Dev full stack and platform of [Protocol Library](https://library.opentrons.com). 
+
+#### Lead Dev full stack and platform of the Opentrons User Accounts.
+
+#### Test tooling and hands on QA with our [Flex](https://opentrons.com/products/flex/) and [OT-2](https://opentrons.com/products/robots/ot-2/)
+
+### Personal projects
+
+#### [Walk2thrive](https://walk2thrive.com)
